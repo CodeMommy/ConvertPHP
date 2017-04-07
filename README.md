@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/ConvertPHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/ConvertPHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/ConvertPHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/ConvertPHP)
 
-
-> CodeMommy ConvertPHP is a request helper for web development.
+> Convert one type to another type
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/ConvertPHP) to get more information.
 

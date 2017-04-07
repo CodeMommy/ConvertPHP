@@ -1,7 +1,7 @@
 {
   "name": "codemommy/convertphp",
   "version": "0.0.1",
-  "description": "CodeMommy ConvertPHP is a convert helper for web development.",
+  "description": "Convert one type to another type",
   "keywords": [
     "CodeMommy",
     "ConvertPHP",
